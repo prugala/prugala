@@ -12,6 +12,4 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://golang.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prugala&show_icons=true&locale=en" alt="prugala" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prugala&" alt="prugala" /></p>
